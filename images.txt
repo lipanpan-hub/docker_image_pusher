@@ -8,3 +8,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 ghcr.io/ansible/community-ansible-dev-tools:v24.11.0
 lppx/ansible_dev:v2
 
+lppx/ansible_dev_rocky8:v2
+lppx/ansible_dev_rocky9:v1
