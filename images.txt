@@ -10,3 +10,4 @@ lppx/ansible_dev:v2
 
 lppx/ansible_dev_rocky8:v2
 lppx/ansible_dev_rocky9:v1
+lppx/ansible_dev_rocky9:v4
