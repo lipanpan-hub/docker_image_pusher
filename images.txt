@@ -13,3 +13,7 @@ lppx/ansible_dev_rocky8:v3
 lppx/ansible_dev_rocky9:v1
 lppx/ansible_dev_rocky9:v3
 lppx/ansible_dev_rocky9:v4
+
+lppx/dmltchat:v7 
+ghcr.io/danny-avila/librechat-rag-api-dev-lite:aa105bcebb3cc1fd2afa06358879d767f9cf7598
+
