@@ -21,3 +21,4 @@ ghcr.io/danny-avila/librechat-rag-api-dev-lite:9e4bb52e15d97856e3b69653c88d2cf1b
 
 ollama/ollama:0.5.13
 
+rancher/rancher:v2.10.3 
