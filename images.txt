@@ -5,22 +5,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-ghcr.io/ansible/community-ansible-dev-tools:v24.11.0
-lppx/ansible_dev:v2
-
-lppx/ansible_dev_rocky8:v2
-lppx/ansible_dev_rocky8:v3
-lppx/ansible_dev_rocky9:v1
-lppx/ansible_dev_rocky9:v3
-lppx/ansible_dev_rocky9:v4
-
-lppx/dmltchat:v7 
-ghcr.io/danny-avila/librechat-rag-api-dev-lite:aa105bcebb3cc1fd2afa06358879d767f9cf7598
-ghcr.io/danny-avila/librechat-rag-api-dev-lite:9e4bb52e15d97856e3b69653c88d2cf1bb34324f
-
-
-ollama/ollama:0.5.13
-
-rancher/rancher:v2.10.3 
-
 nginx
